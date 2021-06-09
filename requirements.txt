@@ -7,7 +7,7 @@ Keras == 2.1.5
 # bot.py: 2
 # image_processing.py: 7
 # img_scrape.py: 2
-matplotlib == 1.4.3
+matplotlib == 3.4.2
 
 # bot.py: 10
 # image_processing.py: 3
